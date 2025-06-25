@@ -511,12 +511,6 @@ const Index = () => {
                     </p>
                   </div>
                 </div>
-                
-                <div className="flex justify-center">
-                  <div className="w-64 h-64 bg-green-500 rounded-full flex items-center justify-center">
-                    <Camera className="text-green-900" size={80} />
-                  </div>
-                </div>
               </div>
             </div>
           </div>
