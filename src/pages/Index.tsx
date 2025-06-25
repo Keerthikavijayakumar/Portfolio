@@ -235,7 +235,7 @@ const Index = () => {
                     <img 
                       src="/lovable-uploads/wheater.png" 
                       alt="Weather Forecasting System"
-                      className="w-48 h-48 object-cover rounded-xl border-2 border-green-500/50 shadow-lg"
+                       className="w-full max-w-md h-auto rounded-xl border-2 border-green-500/50 shadow-lg"
                     />
                   </div>
                 </div>
@@ -274,7 +274,7 @@ const Index = () => {
                     <img 
                       src="/lovable-uploads/fd.jpg" 
                       alt="Fall Detection System"
-                      className="w-48 h-48 object-cover rounded-xl border-2 border-green-500/50 shadow-lg"
+                        className="w-full max-w-md h-auto rounded-xl border-2 border-green-500/50 shadow-lg"
                     />
                   </div>
                 </div>
@@ -312,8 +312,8 @@ const Index = () => {
                   <div className="flex justify-center">
                     <img 
                       src="/lovable-uploads/FREEFIRE.png" 
-                      alt="Fall Detection System"
-                      className="w-48 h-48 object-cover rounded-xl border-2 border-green-500/50 shadow-lg"
+                      alt="Free Fire"
+                        className="w-full max-w-md h-auto rounded-xl border-2 border-green-500/50 shadow-lg"
                     />
                   </div>
                 </div>
@@ -353,7 +353,7 @@ const Index = () => {
                     <img 
                       src="/lovable-uploads/disaster.png" 
                       alt="Disaster Management Platform"
-                      className="w-48 h-48 object-cover rounded-xl border-2 border-green-500/50 shadow-lg"
+                        className="w-full max-w-md h-auto rounded-xl border-2 border-green-500/50 shadow-lg"
                     />
                   </div>
                 </div>
