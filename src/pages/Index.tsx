@@ -233,7 +233,7 @@ const Index = () => {
                   </div>
                   <div className="flex justify-center">
                     <img 
-                      src="public/lovable-uploads/wheater.png" 
+                      src="/lovable-uploads/wheater.png" 
                       alt="Weather Forecasting System"
                       className="w-48 h-48 object-cover rounded-xl border-2 border-green-500/50 shadow-lg"
                     />
@@ -272,7 +272,7 @@ const Index = () => {
                   </div>
                   <div className="flex justify-center">
                     <img 
-                      src="public/lovable-uploads/fd.jpg" 
+                      src="/lovable-uploads/fd.jpg" 
                       alt="Fall Detection System"
                       className="w-48 h-48 object-cover rounded-xl border-2 border-green-500/50 shadow-lg"
                     />
@@ -311,7 +311,7 @@ const Index = () => {
                   </div>
                   <div className="flex justify-center">
                     <img 
-                      src="public/lovable-uploads/FREEFIRE.png" 
+                      src="/lovable-uploads/FREEFIRE.png" 
                       alt="Fall Detection System"
                       className="w-48 h-48 object-cover rounded-xl border-2 border-green-500/50 shadow-lg"
                     />
@@ -351,7 +351,7 @@ const Index = () => {
                   </div>
                   <div className="flex justify-center">
                     <img 
-                      src="public/lovable-uploads/disaster.png" 
+                      src="/lovable-uploads/disaster.png" 
                       alt="Disaster Management Platform"
                       className="w-48 h-48 object-cover rounded-xl border-2 border-green-500/50 shadow-lg"
                     />
